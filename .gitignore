@@ -1,5 +1,5 @@
 /Simple dll-injector/.vs
 /Simple dll-injector/Simple dll-injector.vcxproj.filters
 /Simple dll-injector/Simple dll-injector.vcxproj.user
-*/.log
-**/tlog
+/Simple dll-injector/Release
+/Simple dll-injector/x64
