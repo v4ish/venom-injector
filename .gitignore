@@ -1,2 +1,3 @@
 /Simple dll-injector/.vs
-*.log
+/Simple dll-injector/Simple dll-injector.vcxproj.filters
+/Simple dll-injector/Simple dll-injector.vcxproj.user
