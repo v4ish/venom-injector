@@ -30,8 +30,8 @@ DWORD GetProcId(const char* procName)
 
 int main()
 {
-    const char* dllPath = "C:\\Users\\me\\Desktop\\dll.dll";
-    const char* procName = "csgo.exe";
+    const char* dllPath = "C:\\Users\\me\\Desktop\\vr.dll";
+    const char* procName = "hl2.exe";
     DWORD procId = 0;
 
     std::cout << "Hello World!";
